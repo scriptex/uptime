@@ -32,13 +32,14 @@ sites:
       url: https://interactive-resume.atanas.info
 
 status-website:
+    theme: dark
     baseUrl: /uptime
     logoUrl: https://raw.githubusercontent.com/scriptex/atanas.info/master/static/images/favicon/favicon-196x196.png
     name: Uptime
     introTitle: 'This is my open-source uptime monitor and status page, powered entirely by GitHub and **Upptime**.'
     introMessage: This is the status page for my open source projects.
     navbar:
-        - title: Status
+        - title: Back
           href: /
         - title: GitHub
           href: https://github.com/$OWNER/$REPO
