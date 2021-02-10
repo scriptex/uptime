@@ -33,10 +33,11 @@ sites:
 
 status-website:
     name: Uptime
-    cname: scriptex.js.org
+    cname: scriptex.js.org/uptime
     theme: dark
     baseUrl: /uptime
     logoUrl: https://raw.githubusercontent.com/scriptex/atanas.info/master/static/images/favicon/favicon-196x196.png
+    favicon: https://raw.githubusercontent.com/scriptex/atanas.info/master/static/images/favicon/favicon.ico
     introTitle: 'This is my open-source uptime monitor and status page, powered entirely by GitHub and **Upptime**.'
     introMessage: This is the status page for my open source projects.
     navbar:
