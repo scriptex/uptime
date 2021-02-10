@@ -6,30 +6,42 @@ repo: uptime # Your GitHub repository name
 sites:
     - name: Atanas
       url: https://atanas.info
+      icon: https://atanas.info/images/favicon/favicon-196x196.png
     - name: Github
       url: https://github.com
     - name: ITCSS
       url: https://itcss.atanas.info
+      icon: https://atanas.info/images/favicon/favicon-196x196.png
     - name: ITSCSS
       url: https://itscss.atanas.info
+      icon: https://atanas.info/images/favicon/favicon-196x196.png
     - name: At the Wall
       url: https://at-the-wall.atanas.info
+      icon: https://at-the-wall.atanas.info/favicons/favicon-196x196.png
     - name: SCSS Goodies
       url: https://scss-goodies.atanas.info
+      icon: https://scss-goodies.atanas.info/assets/images/favicon.png
     - name: Github Insights
       url: https://github-insights.atanas.info
+      icon: https://atanas.info/images/favicon/favicon-196x196.png
     - name: URL Shortener
       url: https://atanas.ml
+      icon: https://atanas.info/images/favicon/favicon-196x196.png
     - name: TypeScript Helpers
       url: https://ts-helpers.atanas.info
+      icon: https://atanas.info/images/favicon/favicon-196x196.png
     - name: Animate Me
       url: https://animate-me.atanas.info
+      icon: https://atanas.info/images/favicon/favicon-196x196.png
     - name: Material Snake
       url: https://snake.atanas.info
+      icon: https://snake.atanas.info/assets/favicon-196x196.png
     - name: Material Tetris
       url: https://tetris.atanas.info
+      icon: https://tetris.atanas.info/assets/favicon-196x196.png
     - name: Interactive Resume (WIP)
       url: https://interactive-resume.atanas.info
+      icon: https://interactive-resume.atanas.info/logo192.png
 
 status-website:
     name: Uptime
