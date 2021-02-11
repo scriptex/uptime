@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 371,
-    "timeDay": 398,
-    "timeWeek": 395,
-    "timeMonth": 383,
-    "timeYear": 371,
+    "time": 369,
+    "timeDay": 306,
+    "timeWeek": 412,
+    "timeMonth": 385,
+    "timeYear": 369,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 231,
-    "timeDay": 244,
-    "timeWeek": 238,
-    "timeMonth": 241,
-    "timeYear": 231,
+    "time": 232,
+    "timeDay": 271,
+    "timeWeek": 253,
+    "timeMonth": 246,
+    "timeYear": 232,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 328,
-    "timeDay": 233,
-    "timeWeek": 241,
-    "timeMonth": 312,
-    "timeYear": 328,
+    "time": 332,
+    "timeDay": 471,
+    "timeWeek": 276,
+    "timeMonth": 323,
+    "timeYear": 332,
     "dailyMinutesDown": {}
   },
   {
@@ -58,36 +58,40 @@
     "url": "https://itscss.atanas.info",
     "icon": "https://atanas.info/images/favicon/favicon-196x196.png",
     "slug": "itscss",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 265,
-    "timeDay": 230,
-    "timeWeek": 242,
-    "timeMonth": 245,
-    "timeYear": 265,
-    "dailyMinutesDown": {}
+    "time": 269,
+    "timeDay": 408,
+    "timeWeek": 274,
+    "timeMonth": 255,
+    "timeYear": 269,
+    "dailyMinutesDown": {
+      "2021-02-11": 1
+    }
   },
   {
     "name": "At the Wall",
     "url": "https://at-the-wall.atanas.info",
     "icon": "https://at-the-wall.atanas.info/favicons/favicon-196x196.png",
     "slug": "at-the-wall",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 313,
-    "timeDay": 252,
-    "timeWeek": 354,
-    "timeMonth": 297,
+    "timeDay": 294,
+    "timeWeek": 373,
+    "timeMonth": 296,
     "timeYear": 313,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-11": 1
+    }
   },
   {
     "name": "SCSS Goodies",
@@ -100,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 341,
-    "timeDay": 423,
-    "timeWeek": 355,
+    "time": 343,
+    "timeDay": 419,
+    "timeWeek": 385,
     "timeMonth": 331,
-    "timeYear": 341,
+    "timeYear": 343,
     "dailyMinutesDown": {}
   },
   {
@@ -118,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 244,
-    "timeDay": 138,
-    "timeWeek": 211,
-    "timeMonth": 222,
-    "timeYear": 244,
+    "time": 243,
+    "timeDay": 197,
+    "timeWeek": 194,
+    "timeMonth": 226,
+    "timeYear": 243,
     "dailyMinutesDown": {}
   },
   {
@@ -136,11 +140,11 @@
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 459,
-    "timeDay": 416,
-    "timeWeek": 416,
-    "timeMonth": 438,
-    "timeYear": 459,
+    "time": 458,
+    "timeDay": 428,
+    "timeWeek": 419,
+    "timeMonth": 440,
+    "timeYear": 458,
     "dailyMinutesDown": {
       "2021-02-07": 9
     }
@@ -156,11 +160,11 @@
     "uptimeWeek": "99.92%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 285,
-    "timeDay": 344,
-    "timeWeek": 263,
-    "timeMonth": 248,
-    "timeYear": 285,
+    "time": 287,
+    "timeDay": 399,
+    "timeWeek": 282,
+    "timeMonth": 255,
+    "timeYear": 287,
     "dailyMinutesDown": {
       "2021-02-07": 8
     }
@@ -171,15 +175,15 @@
     "icon": "https://atanas.info/images/favicon/favicon-196x196.png",
     "slug": "animate-me",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.93%",
     "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 243,
-    "timeDay": 110,
-    "timeWeek": 163,
-    "timeMonth": 227,
+    "timeDay": 257,
+    "timeWeek": 176,
+    "timeMonth": 231,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2021-02-07": 7
@@ -196,11 +200,11 @@
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 221,
+    "time": 220,
     "timeDay": 188,
-    "timeWeek": 219,
-    "timeMonth": 208,
-    "timeYear": 221,
+    "timeWeek": 195,
+    "timeMonth": 211,
+    "timeYear": 220,
     "dailyMinutesDown": {
       "2021-02-07": 7
     }
@@ -216,11 +220,11 @@
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 207,
-    "timeDay": 192,
-    "timeWeek": 282,
-    "timeMonth": 195,
-    "timeYear": 207,
+    "time": 208,
+    "timeDay": 245,
+    "timeWeek": 295,
+    "timeMonth": 201,
+    "timeYear": 208,
     "dailyMinutesDown": {
       "2021-02-07": 6
     }
@@ -237,9 +241,9 @@
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 217,
-    "timeDay": 121,
-    "timeWeek": 151,
-    "timeMonth": 210,
+    "timeDay": 205,
+    "timeWeek": 162,
+    "timeMonth": 214,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2021-02-07": 5
