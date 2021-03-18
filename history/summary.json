@@ -166,10 +166,10 @@
     "url": "https://ts-helpers.atanas.info",
     "icon": "https://atanas.info/images/favicon/favicon-196x196.png",
     "slug": "type-script-helpers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 221,
@@ -178,6 +178,7 @@
     "timeMonth": 151,
     "timeYear": 221,
     "dailyMinutesDown": {
+      "2021-03-18": 2,
       "2021-02-07": 8
     }
   },
@@ -186,10 +187,10 @@
     "url": "https://animate-me.atanas.info",
     "icon": "https://atanas.info/images/favicon/favicon-196x196.png",
     "slug": "animate-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 201,
@@ -198,6 +199,7 @@
     "timeMonth": 154,
     "timeYear": 201,
     "dailyMinutesDown": {
+      "2021-03-18": 1,
       "2021-02-07": 7
     }
   },
@@ -206,9 +208,9 @@
     "url": "https://snake.atanas.info",
     "icon": "https://snake.atanas.info/assets/favicon-196x196.png",
     "slug": "material-snake",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -218,6 +220,7 @@
     "timeMonth": 150,
     "timeYear": 188,
     "dailyMinutesDown": {
+      "2021-03-18": 1,
       "2021-02-07": 7
     }
   },
@@ -226,9 +229,9 @@
     "url": "https://tetris.atanas.info",
     "icon": "https://tetris.atanas.info/assets/favicon-196x196.png",
     "slug": "material-tetris",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -238,6 +241,7 @@
     "timeMonth": 113,
     "timeYear": 160,
     "dailyMinutesDown": {
+      "2021-03-18": 0,
       "2021-02-07": 6
     }
   },
