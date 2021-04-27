@@ -4,9 +4,9 @@
     "url": "https://atanas.info",
     "icon": "https://atanas.info/images/favicon/favicon-196x196.png",
     "slug": "atanas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 224,
     "timeYear": 302,
     "dailyMinutesDown": {
+      "2021-04-27": 0,
       "2021-03-15": 24,
       "2021-02-25": 18
     }
