@@ -6,9 +6,9 @@
     "slug": "atanas",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 301,
     "timeDay": 200,
@@ -16,7 +16,6 @@
     "timeMonth": 224,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2021-04-27": 7,
       "2021-03-15": 24,
       "2021-02-25": 18
     }
