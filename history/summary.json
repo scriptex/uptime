@@ -264,5 +264,59 @@
     "dailyMinutesDown": {
       "2021-02-07": 5
     }
+  },
+  {
+    "name": "React Carousel",
+    "url": "https://react-carousel.atanas.info",
+    "icon": "https://atanas.info/images/favicon/favicon-196x196.png",
+    "slug": "react-carousel",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "React Round Carousel",
+    "url": "https://react-round-carousel.atanas.info",
+    "icon": "https://atanas.info/images/favicon/favicon-196x196.png",
+    "slug": "react-round-carousel",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "SOD 64",
+    "url": "https://sod.vercel.app",
+    "icon": "https://sod.vercel.app/favicon-32x32.png",
+    "slug": "sod-64",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
