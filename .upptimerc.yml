@@ -25,7 +25,7 @@ sites:
       url: https://github-insights.atanas.info
       icon: https://atanas.info/images/favicon/favicon-196x196.png
     - name: URL Shortener
-      url: https://atanas.ml
+      url: https://shortener.atanas.info
       icon: https://atanas.info/images/favicon/favicon-196x196.png
     - name: TypeScript Helpers
       url: https://ts-helpers.atanas.info
