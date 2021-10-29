@@ -51,6 +51,9 @@ sites:
     - name: SOD 64
       url: https://sod.vercel.app
       icon: https://sod.vercel.app/favicon-32x32.png
+    - name: Social Header
+      url: https://social-header.tk
+      icon: https://raw.githubusercontent.com/scriptex/social-header/master/src/favicon.svg
 
 status-website:
     name: Uptime
