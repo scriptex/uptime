@@ -354,19 +354,19 @@
     "url": "https://social-header.tk",
     "icon": "https://raw.githubusercontent.com/scriptex/social-header/master/src/favicon.svg",
     "slug": "social-header",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 491,
-    "timeDay": 223,
-    "timeWeek": 328,
-    "timeMonth": 491,
-    "timeYear": 491,
+    "status": "up",
+    "uptime": "99.74%",
+    "uptimeDay": "94.94%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.74%",
+    "time": 502,
+    "timeDay": 485,
+    "timeWeek": 380,
+    "timeMonth": 502,
+    "timeYear": 502,
     "dailyMinutesDown": {
-      "2021-11-18": 0
+      "2021-11-18": 73
     }
   }
 ]
