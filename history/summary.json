@@ -27,17 +27,17 @@
     "slug": "github",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 153,
-    "timeDay": 52,
-    "timeWeek": 244,
-    "timeMonth": 124,
+    "timeDay": 51,
+    "timeWeek": 220,
+    "timeMonth": 122,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2021-12-27": 3
+      "2021-12-27": 11
     }
   },
   {
