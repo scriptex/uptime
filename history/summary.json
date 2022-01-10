@@ -355,9 +355,9 @@
     "url": "https://social-header.tk",
     "icon": "https://raw.githubusercontent.com/scriptex/social-header/master/src/favicon.svg",
     "slug": "social-header",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -367,6 +367,7 @@
     "timeMonth": 698,
     "timeYear": 589,
     "dailyMinutesDown": {
+      "2022-01-10": 1,
       "2021-11-26": 19,
       "2021-11-18": 73
     }
