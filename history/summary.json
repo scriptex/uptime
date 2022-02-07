@@ -34,7 +34,7 @@
     "time": 148,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 70,
+    "timeMonth": 72,
     "timeYear": 141,
     "dailyMinutesDown": {}
   },
@@ -52,7 +52,7 @@
     "time": 260,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 313,
+    "timeMonth": 329,
     "timeYear": 253,
     "dailyMinutesDown": {
       "2021-12-23": 17,
@@ -76,7 +76,7 @@
     "time": 233,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 124,
+    "timeMonth": 130,
     "timeYear": 230,
     "dailyMinutesDown": {
       "2021-10-03": 314,
@@ -100,7 +100,7 @@
     "time": 231,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 143,
+    "timeMonth": 144,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2022-02-01": 4,
@@ -129,7 +129,7 @@
     "time": 226,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 155,
+    "timeMonth": 157,
     "timeYear": 219,
     "dailyMinutesDown": {
       "2022-02-01": 4,
@@ -160,7 +160,7 @@
     "time": 184,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 166,
+    "timeMonth": 167,
     "timeYear": 180,
     "dailyMinutesDown": {
       "2022-02-01": 4,
@@ -203,8 +203,7 @@
       "2021-10-11": 269,
       "2021-10-10": 258,
       "2021-09-04": 24,
-      "2021-03-15": 16,
-      "2021-02-07": 9
+      "2021-03-15": 16
     }
   },
   {
@@ -221,7 +220,7 @@
     "time": 183,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 119,
+    "timeMonth": 120,
     "timeYear": 177,
     "dailyMinutesDown": {
       "2022-01-24": 104,
@@ -231,8 +230,7 @@
       "2022-01-20": 263,
       "2022-01-19": 298,
       "2022-01-18": 97,
-      "2021-03-18": 32,
-      "2021-02-07": 8
+      "2021-03-18": 32
     }
   },
   {
@@ -249,7 +247,7 @@
     "time": 166,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 114,
+    "timeMonth": 115,
     "timeYear": 160,
     "dailyMinutesDown": {
       "2022-01-24": 71,
@@ -262,8 +260,7 @@
       "2021-10-03": 313,
       "2021-10-02": 1440,
       "2021-10-01": 562,
-      "2021-03-18": 23,
-      "2021-02-07": 7
+      "2021-03-18": 23
     }
   },
   {
@@ -280,7 +277,7 @@
     "time": 193,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 260,
+    "timeMonth": 262,
     "timeYear": 191,
     "dailyMinutesDown": {
       "2022-01-24": 203,
@@ -293,8 +290,7 @@
       "2021-10-03": 313,
       "2021-10-02": 1440,
       "2021-10-01": 561,
-      "2021-03-18": 22,
-      "2021-02-07": 7
+      "2021-03-18": 22
     }
   },
   {
@@ -311,7 +307,7 @@
     "time": 260,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 295,
+    "timeMonth": 298,
     "timeYear": 266,
     "dailyMinutesDown": {
       "2022-01-24": 104,
@@ -322,8 +318,7 @@
       "2022-01-19": 287,
       "2022-01-18": 170,
       "2021-10-01": 17,
-      "2021-03-18": 22,
-      "2021-02-07": 6
+      "2021-03-18": 22
     }
   },
   {
@@ -340,7 +335,7 @@
     "time": 180,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 194,
+    "timeMonth": 195,
     "timeYear": 177,
     "dailyMinutesDown": {
       "2022-01-24": 65,
@@ -350,8 +345,7 @@
       "2022-01-20": 252,
       "2022-01-19": 311,
       "2022-01-18": 242,
-      "2021-10-01": 31,
-      "2021-02-07": 5
+      "2021-10-01": 31
     }
   },
   {
@@ -368,7 +362,7 @@
     "time": 168,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 174,
+    "timeMonth": 175,
     "timeYear": 168,
     "dailyMinutesDown": {
       "2022-01-24": 149,
@@ -389,15 +383,15 @@
     "icon": "https://atanas.info/images/favicon/favicon-196x196.png",
     "slug": "react-round-carousel",
     "status": "up",
-    "uptime": "98.79%",
+    "uptime": "98.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.98%",
     "uptimeMonth": "94.83%",
-    "uptimeYear": "98.79%",
+    "uptimeYear": "98.80%",
     "time": 169,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 158,
+    "timeMonth": 159,
     "timeYear": 169,
     "dailyMinutesDown": {
       "2022-02-01": 2,
@@ -445,15 +439,15 @@
     "icon": "https://raw.githubusercontent.com/scriptex/social-header/master/src/favicon.svg",
     "slug": "social-header",
     "status": "up",
-    "uptime": "97.48%",
+    "uptime": "97.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.95%",
-    "uptimeYear": "97.48%",
+    "uptimeYear": "97.51%",
     "time": 644,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 682,
+    "timeMonth": 688,
     "timeYear": 644,
     "dailyMinutesDown": {
       "2022-01-24": 65,
