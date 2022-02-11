@@ -13,7 +13,7 @@
     "time": 269,
     "timeDay": 438,
     "timeWeek": 240,
-    "timeMonth": 170,
+    "timeMonth": 171,
     "timeYear": 257,
     "dailyMinutesDown": {
       "2021-03-15": 24,
@@ -34,8 +34,8 @@
     "time": 148,
     "timeDay": 280,
     "timeWeek": 127,
-    "timeMonth": 73,
-    "timeYear": 138,
+    "timeMonth": 75,
+    "timeYear": 137,
     "dailyMinutesDown": {}
   },
   {
@@ -52,8 +52,8 @@
     "time": 260,
     "timeDay": 580,
     "timeWeek": 281,
-    "timeMonth": 341,
-    "timeYear": 253,
+    "timeMonth": 313,
+    "timeYear": 252,
     "dailyMinutesDown": {
       "2021-12-23": 17,
       "2021-10-03": 314,
@@ -76,14 +76,13 @@
     "time": 233,
     "timeDay": 639,
     "timeWeek": 322,
-    "timeMonth": 154,
-    "timeYear": 230,
+    "timeMonth": 161,
+    "timeYear": 229,
     "dailyMinutesDown": {
       "2021-10-03": 314,
       "2021-10-02": 1440,
       "2021-10-01": 568,
-      "2021-03-15": 21,
-      "2021-02-11": 19
+      "2021-03-15": 21
     }
   },
   {
@@ -100,7 +99,7 @@
     "time": 242,
     "timeDay": 648,
     "timeWeek": 1779,
-    "timeMonth": 244,
+    "timeMonth": 248,
     "timeYear": 235,
     "dailyMinutesDown": {
       "2022-02-01": 4,
@@ -111,8 +110,7 @@
       "2022-01-19": 110,
       "2022-01-18": 20,
       "2021-10-01": 40,
-      "2021-03-15": 19,
-      "2021-02-11": 18
+      "2021-03-15": 19
     }
   },
   {
@@ -129,7 +127,7 @@
     "time": 227,
     "timeDay": 754,
     "timeWeek": 362,
-    "timeMonth": 163,
+    "timeMonth": 160,
     "timeYear": 216,
     "dailyMinutesDown": {
       "2022-02-01": 4,
@@ -160,7 +158,7 @@
     "time": 187,
     "timeDay": 1789,
     "timeWeek": 683,
-    "timeMonth": 180,
+    "timeMonth": 182,
     "timeYear": 182,
     "dailyMinutesDown": {
       "2022-02-01": 4,
@@ -189,8 +187,8 @@
     "time": 353,
     "timeDay": 607,
     "timeWeek": 320,
-    "timeMonth": 142,
-    "timeYear": 344,
+    "timeMonth": 139,
+    "timeYear": 343,
     "dailyMinutesDown": {
       "2022-02-01": 3,
       "2022-01-24": 159,
@@ -220,7 +218,7 @@
     "time": 184,
     "timeDay": 523,
     "timeWeek": 281,
-    "timeMonth": 124,
+    "timeMonth": 123,
     "timeYear": 175,
     "dailyMinutesDown": {
       "2022-01-24": 104,
@@ -240,7 +238,7 @@
     "slug": "animate-me",
     "status": "up",
     "uptime": "99.06%",
-    "uptimeDay": "0.16%",
+    "uptimeDay": "5.71%",
     "uptimeWeek": "85.71%",
     "uptimeMonth": "93.01%",
     "uptimeYear": "98.97%",
@@ -279,7 +277,7 @@
     "time": 194,
     "timeDay": 566,
     "timeWeek": 292,
-    "timeMonth": 252,
+    "timeMonth": 253,
     "timeYear": 191,
     "dailyMinutesDown": {
       "2022-01-24": 203,
@@ -301,18 +299,19 @@
     "icon": "https://tetris.atanas.info/assets/favicon-196x196.png",
     "slug": "material-tetris",
     "status": "down",
-    "uptime": "99.66%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "95.69%",
-    "uptimeYear": "99.63%",
+    "uptime": "99.65%",
+    "uptimeDay": "94.34%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "95.50%",
+    "uptimeYear": "99.62%",
     "time": 259,
     "timeDay": 0,
     "timeWeek": 100,
-    "timeMonth": 294,
+    "timeMonth": 297,
     "timeYear": 264,
     "dailyMinutesDown": {
-      "2022-02-10": 2,
+      "2022-02-11": 32,
+      "2022-02-10": 49,
       "2022-01-24": 104,
       "2022-01-23": 392,
       "2022-01-22": 213,
@@ -331,14 +330,14 @@
     "slug": "interactive-resume-wip",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "0.11%",
+    "uptimeDay": "5.65%",
     "uptimeWeek": "85.71%",
     "uptimeMonth": "92.92%",
     "uptimeYear": "99.40%",
     "time": 181,
     "timeDay": 716,
     "timeWeek": 388,
-    "timeMonth": 199,
+    "timeMonth": 201,
     "timeYear": 178,
     "dailyMinutesDown": {
       "2022-02-10": 1391,
@@ -367,7 +366,7 @@
     "time": 171,
     "timeDay": 611,
     "timeWeek": 654,
-    "timeMonth": 187,
+    "timeMonth": 189,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2022-02-09": 4,
@@ -397,7 +396,7 @@
     "time": 171,
     "timeDay": 580,
     "timeWeek": 312,
-    "timeMonth": 164,
+    "timeMonth": 162,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2022-02-01": 2,
@@ -420,14 +419,14 @@
     "slug": "sod-64",
     "status": "up",
     "uptime": "99.07%",
-    "uptimeDay": "0.07%",
+    "uptimeDay": "5.61%",
     "uptimeWeek": "85.71%",
     "uptimeMonth": "91.86%",
     "uptimeYear": "99.07%",
     "time": 169,
     "timeDay": 602,
     "timeWeek": 378,
-    "timeMonth": 129,
+    "timeMonth": 128,
     "timeYear": 169,
     "dailyMinutesDown": {
       "2022-02-10": 1392,
@@ -455,7 +454,7 @@
     "time": 641,
     "timeDay": 624,
     "timeWeek": 445,
-    "timeMonth": 653,
+    "timeMonth": 595,
     "timeYear": 641,
     "dailyMinutesDown": {
       "2022-01-24": 65,
