@@ -32,7 +32,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 82,
+    "timeYear": 83,
     "dailyMinutesDown": {}
   },
   {
@@ -95,7 +95,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 249,
+    "timeYear": 250,
     "dailyMinutesDown": {
       "2022-02-01": 4,
       "2022-01-24": 50,
@@ -122,7 +122,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 209,
+    "timeYear": 210,
     "dailyMinutesDown": {
       "2022-02-01": 4,
       "2022-01-24": 81,
@@ -236,7 +236,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 163,
+    "timeYear": 162,
     "dailyMinutesDown": {
       "2022-02-12": 452,
       "2022-02-11": 50,
@@ -291,7 +291,7 @@
     "icon": "https://tetris.atanas.info/assets/favicon-196x196.png",
     "slug": "material-tetris",
     "status": "up",
-    "uptime": "99.69%",
+    "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -358,7 +358,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 169,
+    "timeYear": 170,
     "dailyMinutesDown": {
       "2022-02-12": 452,
       "2022-02-11": 49,
@@ -381,7 +381,7 @@
     "icon": "https://atanas.info/images/favicon/favicon-196x196.png",
     "slug": "react-round-carousel",
     "status": "down",
-    "uptime": "99.07%",
+    "uptime": "99.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
