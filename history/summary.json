@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 284,
+    "timeYear": 285,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 90,
+    "timeYear": 91,
     "dailyMinutesDown": {}
   },
   {
@@ -50,7 +50,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 297,
+    "timeYear": 298,
     "dailyMinutesDown": {
       "2021-12-23": 17,
       "2021-10-03": 314,
@@ -95,7 +95,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 271,
+    "timeYear": 272,
     "dailyMinutesDown": {
       "2022-02-01": 4,
       "2022-01-24": 50,
@@ -122,7 +122,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 217,
+    "timeYear": 218,
     "dailyMinutesDown": {
       "2022-02-01": 4,
       "2022-01-24": 81,
@@ -152,7 +152,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 202,
+    "timeYear": 203,
     "dailyMinutesDown": {
       "2022-02-01": 4,
       "2022-01-24": 99,
@@ -180,7 +180,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 308,
+    "timeYear": 289,
     "dailyMinutesDown": {
       "2022-02-01": 3,
       "2022-01-24": 159,
@@ -210,7 +210,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 166,
+    "timeYear": 165,
     "dailyMinutesDown": {
       "2022-01-24": 104,
       "2022-01-23": 163,
@@ -236,7 +236,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 161,
+    "timeYear": 162,
     "dailyMinutesDown": {
       "2022-02-12": 452,
       "2022-02-11": 50,
@@ -269,7 +269,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 222,
+    "timeYear": 223,
     "dailyMinutesDown": {
       "2022-02-12": 452,
       "2022-02-11": 50,
@@ -300,7 +300,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 285,
+    "timeYear": 286,
     "dailyMinutesDown": {
       "2022-02-11": 267,
       "2022-02-10": 49,
@@ -329,7 +329,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 204,
+    "timeYear": 205,
     "dailyMinutesDown": {
       "2022-02-10": 1391,
       "2022-02-09": 49,
@@ -349,7 +349,7 @@
     "icon": "https://atanas.info/images/favicon/favicon-196x196.png",
     "slug": "react-carousel",
     "status": "down",
-    "uptime": "99.26%",
+    "uptime": "99.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -390,7 +390,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 163,
+    "timeYear": 164,
     "dailyMinutesDown": {
       "2022-02-12": 452,
       "2022-02-11": 49,
