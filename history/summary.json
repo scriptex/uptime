@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 285,
+    "timeYear": 286,
     "dailyMinutesDown": {}
   },
   {
@@ -41,7 +41,7 @@
     "icon": "https://atanas.info/images/favicon/favicon-196x196.png",
     "slug": "itcss",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -73,7 +73,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 266,
+    "timeYear": 265,
     "dailyMinutesDown": {
       "2021-10-03": 314,
       "2021-10-02": 1440,
@@ -95,7 +95,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 274,
+    "timeYear": 275,
     "dailyMinutesDown": {
       "2022-02-01": 4,
       "2022-01-24": 50,
@@ -122,7 +122,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 219,
+    "timeYear": 218,
     "dailyMinutesDown": {
       "2022-02-01": 4,
       "2022-01-24": 81,
@@ -152,7 +152,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 204,
+    "timeYear": 205,
     "dailyMinutesDown": {
       "2022-02-01": 4,
       "2022-01-24": 99,
@@ -171,7 +171,7 @@
     "icon": "https://atanas.info/images/favicon/favicon-196x196.png",
     "slug": "url-shortener",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -180,7 +180,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 291,
+    "timeYear": 274,
     "dailyMinutesDown": {
       "2022-02-01": 3,
       "2022-01-24": 159,
@@ -236,7 +236,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 163,
+    "timeYear": 162,
     "dailyMinutesDown": {
       "2022-02-12": 452,
       "2022-02-11": 50,
@@ -269,7 +269,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 224,
+    "timeYear": 225,
     "dailyMinutesDown": {
       "2022-02-12": 452,
       "2022-02-11": 50,
@@ -320,7 +320,7 @@
     "icon": "https://interactive-resume.atanas.info/logo192.png",
     "slug": "interactive-resume-wip",
     "status": "up",
-    "uptime": "99.63%",
+    "uptime": "99.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -329,7 +329,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 206,
+    "timeYear": 207,
     "dailyMinutesDown": {
       "2022-02-10": 1391,
       "2022-02-09": 49,
@@ -422,7 +422,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 168,
+    "timeYear": 169,
     "dailyMinutesDown": {
       "2022-02-12": 452,
       "2022-02-11": 48,
