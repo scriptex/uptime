@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 284,
+    "timeYear": 285,
     "dailyMinutesDown": {}
   },
   {
@@ -73,7 +73,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 267,
+    "timeYear": 262,
     "dailyMinutesDown": {
       "2021-10-03": 314,
       "2021-10-02": 1440,
@@ -95,7 +95,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 278,
+    "timeYear": 275,
     "dailyMinutesDown": {
       "2022-02-01": 4,
       "2022-01-24": 50,
@@ -122,7 +122,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 216,
+    "timeYear": 217,
     "dailyMinutesDown": {
       "2022-02-01": 4,
       "2022-01-24": 81,
@@ -176,11 +176,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
-    "time": 344,
+    "time": 333,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 208,
+    "timeYear": 207,
     "dailyMinutesDown": {
       "2022-02-01": 3,
       "2022-01-24": 159,
@@ -209,7 +209,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 163,
+    "timeYear": 164,
     "dailyMinutesDown": {
       "2022-01-24": 104,
       "2022-01-23": 163,
@@ -268,7 +268,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 227,
+    "timeYear": 228,
     "dailyMinutesDown": {
       "2022-02-12": 452,
       "2022-02-11": 50,
@@ -299,7 +299,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 293,
+    "timeYear": 294,
     "dailyMinutesDown": {
       "2022-02-11": 267,
       "2022-02-10": 49,
@@ -328,7 +328,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 206,
+    "timeYear": 207,
     "dailyMinutesDown": {
       "2022-02-10": 1391,
       "2022-02-09": 49,
@@ -357,7 +357,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 179,
+    "timeYear": 180,
     "dailyMinutesDown": {
       "2022-02-12": 452,
       "2022-02-11": 49,
@@ -389,7 +389,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 163,
+    "timeYear": 164,
     "dailyMinutesDown": {
       "2022-02-12": 452,
       "2022-02-11": 49,
@@ -421,7 +421,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 167,
+    "timeYear": 168,
     "dailyMinutesDown": {
       "2022-02-12": 452,
       "2022-02-11": 48,
