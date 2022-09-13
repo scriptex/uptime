@@ -39,9 +39,6 @@ sites:
     - name: Material Tetris
       url: https://tetris.atanas.info
       icon: https://tetris.atanas.info/assets/favicon-196x196.png
-    - name: Interactive Resume (WIP)
-      url: https://interactive-resume.atanas.info
-      icon: https://interactive-resume.atanas.info/logo192.png
     - name: React Carousel
       url: https://react-carousel.atanas.info
       icon: https://atanas.info/images/favicon/favicon-196x196.png
@@ -54,6 +51,42 @@ sites:
     - name: Social Header
       url: https://social-header.tk
       icon: https://raw.githubusercontent.com/scriptex/social-header/master/src/favicon.svg
+    - name: Kinetik
+      url: https://kinetik.vercel.app
+      icon: https://kinetik.vercel.app/favicon/favicon.ico
+    - name: E.ON Home API Docs
+      url: https://eonhome.tk
+      icon: https://app.home.eon.com/brand/assets/favicons/favicon.ico
+    - name: React SVG Donuts
+      url: https://react-svg-donuts.atanas.info
+      icon: https://atanas.info/images/favicon/favicon-196x196.png
+    - name: Calendar Widget
+      url: https://calendar-widget.atanas.info
+      icon: https://atanas.info/images/favicon/favicon-196x196.png
+    - name: React Accordion TS
+      url: https://react-accordion-ts.atanas.info
+      icon: https://atanas.info/images/favicon/favicon-196x196.png
+    - name: '2048'
+      url: https://2048.atanas.info
+      icon: https://2048.atanas.info/favicons/favicon.ico
+    - name: Gitlab Calendar
+      url: https://gitlab-calendar.atanas.info
+      icon: https://atanas.info/images/favicon/favicon-196x196.png
+    - name: Dator
+      url: https://dator.atanas.info
+      icon: https://atanas.info/images/favicon/favicon-196x196.png
+    - name: Socials
+      url: https://socials.atanas.info
+      icon: https://atanas.info/images/favicon/favicon-196x196.png
+    - name: scriptex.github.io
+      url: https://scriptex.tk
+      icon: https://atanas.info/images/favicon/favicon-196x196.png
+    - name: No HTML
+      url: https://no-html.atanas.info
+      icon: https://atanas.info/images/favicon/favicon-196x196.png
+    - name: Intro Scroll
+      url: https://intro-scroll.atanas.info
+      icon: https://atanas.info/images/favicon/favicon-196x196.png
 
 status-website:
     name: Uptime
