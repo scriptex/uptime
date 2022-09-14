@@ -50,7 +50,7 @@
     "timeDay": 419,
     "timeWeek": 419,
     "timeMonth": 419,
-    "timeYear": 305,
+    "timeYear": 306,
     "dailyMinutesDown": {
       "2021-12-23": 17,
       "2021-10-03": 314,
@@ -73,7 +73,7 @@
     "timeDay": 99,
     "timeWeek": 99,
     "timeMonth": 99,
-    "timeYear": 261,
+    "timeYear": 262,
     "dailyMinutesDown": {
       "2021-10-03": 314,
       "2021-10-02": 1440,
@@ -95,7 +95,7 @@
     "timeDay": 336,
     "timeWeek": 336,
     "timeMonth": 336,
-    "timeYear": 276,
+    "timeYear": 277,
     "dailyMinutesDown": {
       "2022-02-01": 4,
       "2022-01-24": 50,
@@ -180,7 +180,7 @@
     "timeDay": 603,
     "timeWeek": 603,
     "timeMonth": 603,
-    "timeYear": 208,
+    "timeYear": 207,
     "dailyMinutesDown": {
       "2022-02-01": 3,
       "2022-01-24": 159,
@@ -209,7 +209,7 @@
     "timeDay": 169,
     "timeWeek": 169,
     "timeMonth": 169,
-    "timeYear": 164,
+    "timeYear": 165,
     "dailyMinutesDown": {
       "2022-01-24": 104,
       "2022-01-23": 163,
@@ -235,7 +235,7 @@
     "timeDay": 258,
     "timeWeek": 258,
     "timeMonth": 258,
-    "timeYear": 164,
+    "timeYear": 163,
     "dailyMinutesDown": {
       "2022-02-12": 452,
       "2022-02-11": 50,
@@ -268,7 +268,7 @@
     "timeDay": 362,
     "timeWeek": 362,
     "timeMonth": 362,
-    "timeYear": 229,
+    "timeYear": 230,
     "dailyMinutesDown": {
       "2022-02-12": 452,
       "2022-02-11": 50,
@@ -299,7 +299,7 @@
     "timeDay": 104,
     "timeWeek": 104,
     "timeMonth": 104,
-    "timeYear": 293,
+    "timeYear": 294,
     "dailyMinutesDown": {
       "2022-02-11": 267,
       "2022-02-10": 49,
@@ -319,7 +319,7 @@
     "icon": "https://atanas.info/images/favicon/favicon-196x196.png",
     "slug": "react-carousel",
     "status": "up",
-    "uptime": "99.29%",
+    "uptime": "99.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -328,7 +328,7 @@
     "timeDay": 115,
     "timeWeek": 115,
     "timeMonth": 115,
-    "timeYear": 180,
+    "timeYear": 181,
     "dailyMinutesDown": {
       "2022-02-12": 452,
       "2022-02-11": 49,
@@ -360,7 +360,7 @@
     "timeDay": 219,
     "timeWeek": 219,
     "timeMonth": 219,
-    "timeYear": 165,
+    "timeYear": 162,
     "dailyMinutesDown": {
       "2022-02-12": 452,
       "2022-02-11": 49,
