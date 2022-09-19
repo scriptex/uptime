@@ -50,7 +50,7 @@
     "timeDay": 0,
     "timeWeek": 419,
     "timeMonth": 419,
-    "timeYear": 304,
+    "timeYear": 305,
     "dailyMinutesDown": {
       "2021-12-23": 17,
       "2021-10-03": 314,
@@ -73,7 +73,7 @@
     "timeDay": 0,
     "timeWeek": 99,
     "timeMonth": 99,
-    "timeYear": 258,
+    "timeYear": 259,
     "dailyMinutesDown": {
       "2021-10-03": 314,
       "2021-10-02": 1440,
@@ -95,7 +95,7 @@
     "timeDay": 0,
     "timeWeek": 336,
     "timeMonth": 336,
-    "timeYear": 274,
+    "timeYear": 276,
     "dailyMinutesDown": {
       "2022-02-01": 4,
       "2022-01-24": 50,
@@ -122,7 +122,7 @@
     "timeDay": 0,
     "timeWeek": 164,
     "timeMonth": 164,
-    "timeYear": 214,
+    "timeYear": 215,
     "dailyMinutesDown": {
       "2022-02-01": 4,
       "2022-01-24": 81,
@@ -209,7 +209,7 @@
     "timeDay": 0,
     "timeWeek": 169,
     "timeMonth": 169,
-    "timeYear": 164,
+    "timeYear": 163,
     "dailyMinutesDown": {
       "2022-01-24": 104,
       "2022-01-23": 163,
@@ -268,7 +268,7 @@
     "timeDay": 0,
     "timeWeek": 362,
     "timeMonth": 362,
-    "timeYear": 229,
+    "timeYear": 230,
     "dailyMinutesDown": {
       "2022-02-12": 452,
       "2022-02-11": 50,
@@ -360,7 +360,7 @@
     "timeDay": 0,
     "timeWeek": 219,
     "timeMonth": 219,
-    "timeYear": 158,
+    "timeYear": 157,
     "dailyMinutesDown": {
       "2022-02-12": 452,
       "2022-02-11": 49,
@@ -413,11 +413,11 @@
     "icon": "https://raw.githubusercontent.com/scriptex/social-header/master/src/favicon.svg",
     "slug": "social-header",
     "status": "up",
-    "uptime": "99.22%",
+    "uptime": "99.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.22%",
+    "uptimeYear": "99.23%",
     "time": 638,
     "timeDay": 0,
     "timeWeek": 318,
