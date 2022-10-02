@@ -14,13 +14,13 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 60,
-    "timeYear": 276,
+    "timeYear": 278,
     "dailyMinutesDown": {}
   },
   {
     "name": "Github",
     "url": "https://github.com",
-    "icon": "https://favicons.githubusercontent.com/github.com",
+    "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "github",
     "status": "up",
     "uptime": "100.00%",
@@ -45,16 +45,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.55%",
+    "uptimeYear": "99.68%",
     "time": 264,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 419,
-    "timeYear": 301,
+    "timeYear": 302,
     "dailyMinutesDown": {
       "2021-12-23": 17,
-      "2021-10-03": 314,
-      "2021-10-02": 1440
+      "2021-10-03": 314
     }
   },
   {
@@ -67,15 +66,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.56%",
+    "uptimeYear": "99.68%",
     "time": 235,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 99,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2021-10-03": 314,
-      "2021-10-02": 1440
+      "2021-10-03": 314
     }
   },
   {
@@ -88,12 +86,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.84%",
+    "uptimeYear": "99.85%",
     "time": 257,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 336,
-    "timeYear": 271,
+    "timeYear": 268,
     "dailyMinutesDown": {
       "2022-02-01": 4,
       "2022-01-24": 50,
@@ -114,7 +112,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.43%",
+    "uptimeYear": "99.55%",
     "time": 217,
     "timeDay": 0,
     "timeWeek": 0,
@@ -129,8 +127,7 @@
       "2022-01-20": 135,
       "2022-01-19": 92,
       "2022-01-18": 44,
-      "2021-10-03": 314,
-      "2021-10-02": 1440
+      "2021-10-03": 314
     }
   },
   {
@@ -139,16 +136,16 @@
     "icon": "https://atanas.info/images/favicon/favicon-196x196.png",
     "slug": "github-insights",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.65%",
-    "time": 185,
+    "uptimeYear": "99.66%",
+    "time": 197,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 438,
-    "timeYear": 206,
+    "timeYear": 207,
     "dailyMinutesDown": {
       "2022-02-01": 4,
       "2022-01-24": 99,
@@ -175,7 +172,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 603,
-    "timeYear": 173,
+    "timeYear": 171,
     "dailyMinutesDown": {
       "2022-02-01": 3,
       "2022-01-24": 159,
@@ -225,7 +222,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.88%",
+    "uptimeYear": "99.00%",
     "time": 167,
     "timeDay": 0,
     "timeWeek": 0,
@@ -243,8 +240,7 @@
       "2022-01-20": 252,
       "2022-01-19": 272,
       "2022-01-18": 312,
-      "2021-10-03": 313,
-      "2021-10-02": 1440
+      "2021-10-03": 313
     }
   },
   {
@@ -257,12 +253,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.11%",
+    "uptimeYear": "99.23%",
     "time": 214,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 362,
-    "timeYear": 228,
+    "timeYear": 229,
     "dailyMinutesDown": {
       "2022-02-12": 452,
       "2022-02-11": 50,
@@ -273,8 +269,7 @@
       "2022-01-20": 115,
       "2022-01-19": 356,
       "2022-01-18": 270,
-      "2021-10-03": 313,
-      "2021-10-02": 1440
+      "2021-10-03": 313
     }
   },
   {
@@ -288,11 +283,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
-    "time": 279,
+    "time": 258,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 104,
-    "timeYear": 300,
+    "timeYear": 245,
     "dailyMinutesDown": {
       "2022-02-11": 267,
       "2022-02-10": 49,
@@ -315,7 +310,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.07%",
+    "uptimeYear": "99.19%",
     "time": 171,
     "timeDay": 0,
     "timeWeek": 0,
@@ -332,8 +327,7 @@
       "2022-01-20": 227,
       "2022-01-19": 427,
       "2022-01-18": 336,
-      "2021-10-03": 312,
-      "2021-10-02": 1440
+      "2021-10-03": 312
     }
   },
   {
@@ -342,16 +336,16 @@
     "icon": "https://atanas.info/images/favicon/favicon-196x196.png",
     "slug": "react-round-carousel",
     "status": "up",
-    "uptime": "99.29%",
+    "uptime": "99.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.03%",
+    "uptimeYear": "99.15%",
     "time": 171,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 219,
-    "timeYear": 157,
+    "timeYear": 158,
     "dailyMinutesDown": {
       "2022-02-12": 452,
       "2022-02-11": 49,
@@ -363,8 +357,7 @@
       "2022-01-20": 327,
       "2022-01-19": 466,
       "2022-01-18": 371,
-      "2021-10-03": 312,
-      "2021-10-02": 1440
+      "2021-10-03": 312
     }
   },
   {
@@ -373,7 +366,7 @@
     "icon": "https://sod.vercel.app/favicon-32x32.png",
     "slug": "sod-64",
     "status": "up",
-    "uptime": "99.43%",
+    "uptime": "99.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -403,11 +396,11 @@
     "icon": "https://raw.githubusercontent.com/scriptex/social-header/master/src/favicon.svg",
     "slug": "social-header",
     "status": "up",
-    "uptime": "99.25%",
+    "uptime": "99.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.25%",
+    "uptimeYear": "99.26%",
     "time": 638,
     "timeDay": 0,
     "timeWeek": 0,
