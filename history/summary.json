@@ -88,7 +88,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 336,
-    "timeYear": 266,
+    "timeYear": 268,
     "dailyMinutesDown": {
       "2022-02-01": 4,
       "2022-01-24": 50,
@@ -105,7 +105,7 @@
     "icon": "https://scss-goodies.atanas.info/assets/images/favicon.png",
     "slug": "scss-goodies",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -114,7 +114,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 164,
-    "timeYear": 211,
+    "timeYear": 212,
     "dailyMinutesDown": {
       "2022-02-01": 4,
       "2022-01-24": 81,
@@ -163,7 +163,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.59%",
+    "uptimeYear": "99.65%",
     "time": 334,
     "timeDay": 0,
     "timeWeek": 0,
@@ -177,8 +177,7 @@
       "2022-01-21": 307,
       "2022-01-20": 246,
       "2022-01-19": 210,
-      "2022-01-18": 201,
-      "2021-10-11": 269
+      "2022-01-18": 201
     }
   },
   {
@@ -222,7 +221,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 258,
-    "timeYear": 154,
+    "timeYear": 155,
     "dailyMinutesDown": {
       "2022-02-12": 452,
       "2022-02-11": 50,
@@ -252,7 +251,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 362,
-    "timeYear": 228,
+    "timeYear": 229,
     "dailyMinutesDown": {
       "2022-02-12": 452,
       "2022-02-11": 50,
@@ -337,7 +336,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 219,
-    "timeYear": 157,
+    "timeYear": 158,
     "dailyMinutesDown": {
       "2022-02-12": 452,
       "2022-02-11": 49,
@@ -357,7 +356,7 @@
     "icon": "https://sod.vercel.app/favicon-32x32.png",
     "slug": "sod-64",
     "status": "up",
-    "uptime": "99.44%",
+    "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -366,7 +365,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 72,
-    "timeYear": 162,
+    "timeYear": 163,
     "dailyMinutesDown": {
       "2022-02-12": 452,
       "2022-02-11": 48,
@@ -387,11 +386,11 @@
     "icon": "https://raw.githubusercontent.com/scriptex/social-header/master/src/favicon.svg",
     "slug": "social-header",
     "status": "up",
-    "uptime": "99.27%",
+    "uptime": "99.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.27%",
+    "uptimeYear": "99.28%",
     "time": 638,
     "timeDay": 0,
     "timeWeek": 0,
