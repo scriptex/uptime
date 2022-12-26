@@ -32,7 +32,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 111,
+    "timeYear": 80,
     "dailyMinutesDown": {}
   },
   {
@@ -50,7 +50,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 331,
+    "timeYear": 333,
     "dailyMinutesDown": {}
   },
   {
@@ -68,7 +68,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 191,
+    "timeYear": 188,
     "dailyMinutesDown": {}
   },
   {
@@ -166,7 +166,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 148,
+    "timeYear": 147,
     "dailyMinutesDown": {
       "2022-02-01": 3,
       "2022-01-24": 159,
@@ -219,7 +219,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 126,
+    "timeYear": 125,
     "dailyMinutesDown": {
       "2022-02-12": 452,
       "2022-02-11": 50,
@@ -240,7 +240,7 @@
     "icon": "https://snake.atanas.info/assets/favicon-196x196.png",
     "slug": "material-snake",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -249,7 +249,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 258,
+    "timeYear": 260,
     "dailyMinutesDown": {
       "2022-02-12": 452,
       "2022-02-11": 50,
@@ -277,7 +277,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 282,
+    "timeYear": 281,
     "dailyMinutesDown": {
       "2022-02-11": 267,
       "2022-02-10": 49,
@@ -334,7 +334,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 169,
+    "timeYear": 168,
     "dailyMinutesDown": {
       "2022-02-12": 452,
       "2022-02-11": 49,
@@ -363,7 +363,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 133,
+    "timeYear": 132,
     "dailyMinutesDown": {
       "2022-02-12": 452,
       "2022-02-11": 48,
@@ -384,7 +384,7 @@
     "icon": "https://raw.githubusercontent.com/scriptex/social-header/master/src/favicon.svg",
     "slug": "social-header",
     "status": "up",
-    "uptime": "99.40%",
+    "uptime": "99.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -393,7 +393,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 646,
+    "timeYear": 650,
     "dailyMinutesDown": {
       "2022-01-24": 65,
       "2022-01-23": 232,
