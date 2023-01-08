@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 165,
+    "timeYear": 167,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 79,
+    "timeYear": 69,
     "dailyMinutesDown": {}
   },
   {
@@ -41,7 +41,7 @@
     "icon": "https://atanas.info/images/favicon/favicon-196x196.png",
     "slug": "itcss",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -50,7 +50,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 314,
+    "timeYear": 318,
     "dailyMinutesDown": {}
   },
   {
@@ -59,7 +59,7 @@
     "icon": "https://atanas.info/images/favicon/favicon-196x196.png",
     "slug": "itscss",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -68,7 +68,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 166,
+    "timeYear": 158,
     "dailyMinutesDown": {}
   },
   {
@@ -86,7 +86,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 236,
+    "timeYear": 238,
     "dailyMinutesDown": {
       "2022-02-01": 4,
       "2022-01-24": 50,
@@ -112,7 +112,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 169,
+    "timeYear": 168,
     "dailyMinutesDown": {
       "2022-02-01": 4,
       "2022-01-24": 81,
@@ -166,7 +166,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 147,
+    "timeYear": 148,
     "dailyMinutesDown": {
       "2022-02-01": 3,
       "2022-01-24": 159,
@@ -193,7 +193,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 126,
+    "timeYear": 125,
     "dailyMinutesDown": {
       "2022-01-24": 104,
       "2022-01-23": 163,
@@ -249,7 +249,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 264,
+    "timeYear": 251,
     "dailyMinutesDown": {
       "2022-02-12": 452,
       "2022-02-11": 50,
@@ -277,7 +277,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 291,
+    "timeYear": 287,
     "dailyMinutesDown": {
       "2022-02-11": 267,
       "2022-02-10": 49,
@@ -305,7 +305,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 183,
+    "timeYear": 184,
     "dailyMinutesDown": {
       "2022-02-12": 452,
       "2022-02-11": 49,
@@ -334,7 +334,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 163,
+    "timeYear": 162,
     "dailyMinutesDown": {
       "2022-02-12": 452,
       "2022-02-11": 49,
@@ -363,7 +363,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 129,
+    "timeYear": 128,
     "dailyMinutesDown": {
       "2022-02-12": 452,
       "2022-02-11": 48,
@@ -393,7 +393,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 673,
+    "timeYear": 679,
     "dailyMinutesDown": {
       "2022-01-24": 65,
       "2022-01-23": 232,
