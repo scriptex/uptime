@@ -87,9 +87,7 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1172,
-    "dailyMinutesDown": {
-      "2022-02-01": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SCSS Goodies",
@@ -107,9 +105,7 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 329,
-    "dailyMinutesDown": {
-      "2022-02-01": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Github Insights",
@@ -127,9 +123,7 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 570,
-    "dailyMinutesDown": {
-      "2022-02-01": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "URL Shortener",
@@ -147,9 +141,7 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 346,
-    "dailyMinutesDown": {
-      "2022-02-01": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TypeScript Helpers",
@@ -175,7 +167,7 @@
     "icon": "https://atanas.info/images/favicon/favicon-196x196.png",
     "slug": "animate-me",
     "status": "up",
-    "uptime": "99.45%",
+    "uptime": "99.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -274,8 +266,7 @@
     "timeYear": 289,
     "dailyMinutesDown": {
       "2022-02-12": 452,
-      "2022-02-11": 49,
-      "2022-02-01": 2
+      "2022-02-11": 49
     }
   },
   {
