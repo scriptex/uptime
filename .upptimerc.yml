@@ -49,14 +49,11 @@ sites:
       url: https://sod.vercel.app
       icon: https://sod.vercel.app/favicon-32x32.png
     - name: Social Header
-      url: https://social-header.tk
+      url: https://social-header.atanas.info
       icon: https://raw.githubusercontent.com/scriptex/social-header/master/src/favicon.svg
     - name: Kinetik
-      url: https://kinetik.vercel.app
+      url: https://kinetik.atanas.info
       icon: https://kinetik.vercel.app/favicon/favicon.ico
-    - name: E.ON Home API Docs
-      url: https://eonhome.tk
-      icon: https://app.home.eon.com/brand/assets/favicons/favicon.ico
     - name: React SVG Donuts
       url: https://react-svg-donuts.atanas.info
       icon: https://atanas.info/images/favicon/favicon-196x196.png
@@ -79,7 +76,7 @@ sites:
       url: https://socials.atanas.info
       icon: https://atanas.info/images/favicon/favicon-196x196.png
     - name: scriptex.github.io
-      url: https://scriptex.tk
+      url: https://scriptex.js.org
       icon: https://atanas.info/images/favicon/favicon-196x196.png
     - name: No HTML
       url: https://no-html.atanas.info
