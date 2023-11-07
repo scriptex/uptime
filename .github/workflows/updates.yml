@@ -9,22 +9,22 @@
 
 name: Updates CI
 on:
-    schedule:
-        - cron: '0 3 * * *'
-    repository_dispatch:
-        types: [updates]
-    workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * *"
+  repository_dispatch:
+    types: [updates]
+  workflow_dispatch:
 jobs:
-    release:
-        name: Deploy updates
-        runs-on: ubuntu-latest
-        steps:
-            - name: Checkout
-              uses: actions/checkout@v4
-              with:
-                  ref: ${{ github.head_ref }}
-                  token: ${{ secrets.GH_PAT || github.token }}
-            - name: Update code
-              uses: upptime/updates@master
-              env:
-                  GH_PAT: ${{ secrets.GH_PAT || github.token }}
+  release:
+    name: Deploy updates
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.head_ref }}
+          token: ${{ secrets.GH_PAT || github.token }}
+      - name: Update code
+        uses: upptime/updates@master
+        env:
+          GH_PAT: ${{ secrets.GH_PAT || github.token }}
