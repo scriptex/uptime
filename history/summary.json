@@ -285,9 +285,7 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-11-07": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Kinetik",
@@ -305,9 +303,7 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 104,
-    "dailyMinutesDown": {
-      "2023-11-07": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "React SVG Donuts",
@@ -451,9 +447,7 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-11-07": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "No HTML",
