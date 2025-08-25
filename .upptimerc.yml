@@ -46,8 +46,8 @@ sites:
       url: https://react-round-carousel.atanas.info
       icon: https://atanas.info/images/favicon/favicon-196x196.png
     - name: SOD 64
-      url: https://sod.vercel.app
-      icon: https://sod.vercel.app/favicon-32x32.png
+      url: https://sod.bg
+      icon: https://sod.bg/favicon-32x32.png
     - name: Social Header
       url: https://social-header.atanas.info
       icon: https://raw.githubusercontent.com/scriptex/social-header/master/src/favicon.svg
