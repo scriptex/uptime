@@ -258,8 +258,8 @@
     "slug": "sod-64",
     "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 127,
@@ -268,7 +268,7 @@
     "timeMonth": 115,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-08-25": 0
+      "2025-08-25": 1
     }
   },
   {
