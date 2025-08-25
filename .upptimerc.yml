@@ -7,8 +7,6 @@ sites:
     - name: Atanas
       url: https://atanas.info
       icon: https://atanas.info/images/favicon/favicon-196x196.png
-    - name: Github
-      url: https://github.com
     - name: ITCSS
       url: https://itcss.atanas.info
       icon: https://atanas.info/images/favicon/favicon-196x196.png
@@ -53,7 +51,7 @@ sites:
       icon: https://raw.githubusercontent.com/scriptex/social-header/master/src/favicon.svg
     - name: Kinetik
       url: https://kinetik.atanas.info
-      icon: https://kinetik.vercel.app/favicon/favicon.ico
+      icon: https://kinetik.atanas.info/favicon/favicon.ico
     - name: React SVG Donuts
       url: https://react-svg-donuts.atanas.info
       icon: https://atanas.info/images/favicon/favicon-196x196.png
@@ -87,7 +85,7 @@ sites:
 
 status-website:
     name: Uptime
-    cname: scriptex.js.org/uptime
+    cname: scriptex.js.org
     theme: dark
     baseUrl: /uptime
     logoUrl: https://raw.githubusercontent.com/scriptex/atanas.info/master/static/images/favicon/favicon-196x196.png
