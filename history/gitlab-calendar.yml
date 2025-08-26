@@ -1,7 +1,7 @@
 url: https://gitlab-calendar.atanas.info
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-08-26T08:50:04.046Z
+status: up
+code: 200
+responseTime: 101
+lastUpdated: 2025-08-26T09:00:10.349Z
 startTime: 2022-09-13T12:15:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
