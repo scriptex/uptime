@@ -4,19 +4,19 @@
     "url": "https://atanas.info",
     "icon": "https://atanas.info/images/favicon/favicon-196x196.png",
     "slug": "atanas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "97.02%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "96.34%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
-    "time": 282,
+    "time": 283,
     "timeDay": 366,
     "timeWeek": 366,
     "timeMonth": 366,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2025-08-26": 43
+      "2025-08-26": 53
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://itcss.atanas.info",
     "icon": "https://atanas.info/images/favicon/favicon-196x196.png",
     "slug": "itcss",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "97.07%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "96.42%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
-    "time": 293,
+    "time": 294,
     "timeDay": 261,
     "timeWeek": 261,
     "timeMonth": 261,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2025-08-26": 42
+      "2025-08-26": 51
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://itscss.atanas.info",
     "icon": "https://atanas.info/images/favicon/favicon-196x196.png",
     "slug": "itscss",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "97.12%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.50%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
-    "time": 267,
+    "time": 268,
     "timeDay": 317,
     "timeWeek": 317,
     "timeMonth": 317,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2025-08-26": 42
+      "2025-08-26": 51
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://at-the-wall.atanas.info",
     "icon": "https://at-the-wall.atanas.info/favicons/favicon-196x196.png",
     "slug": "at-the-wall",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "97.17%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.57%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
-    "time": 272,
+    "time": 273,
     "timeDay": 335,
     "timeWeek": 335,
     "timeMonth": 335,
     "timeYear": 335,
     "dailyMinutesDown": {
-      "2025-08-26": 40
+      "2025-08-26": 49
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://scss-goodies.atanas.info",
     "icon": "https://scss-goodies.atanas.info/assets/images/favicon.png",
     "slug": "scss-goodies",
-    "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "97.22%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.91%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "96.65%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
-    "time": 207,
+    "time": 208,
     "timeDay": 239,
     "timeWeek": 239,
     "timeMonth": 239,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2025-08-26": 40
+      "2025-08-26": 48
     }
   },
   {
@@ -104,11 +104,11 @@
     "url": "https://github-insights.atanas.info",
     "icon": "https://atanas.info/images/favicon/favicon-196x196.png",
     "slug": "github-insights",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "97.27%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.73%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 196,
     "timeDay": 225,
@@ -116,7 +116,7 @@
     "timeMonth": 225,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2025-08-26": 40
+      "2025-08-26": 48
     }
   },
   {
@@ -124,19 +124,19 @@
     "url": "https://shortener.atanas.info",
     "icon": "https://atanas.info/images/favicon/favicon-196x196.png",
     "slug": "url-shortener",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "97.32%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.80%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
-    "time": 161,
+    "time": 156,
     "timeDay": 248,
     "timeWeek": 248,
     "timeMonth": 248,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2025-08-26": 38
+      "2025-08-26": 45
     }
   },
   {
@@ -144,11 +144,11 @@
     "url": "https://ts-helpers.atanas.info",
     "icon": "https://atanas.info/images/favicon/favicon-196x196.png",
     "slug": "type-script-helpers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "97.37%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.88%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 140,
     "timeDay": 189,
@@ -156,7 +156,7 @@
     "timeMonth": 189,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2025-08-26": 38
+      "2025-08-26": 45
     }
   },
   {
@@ -164,11 +164,11 @@
     "url": "https://animate-me.atanas.info",
     "icon": "https://atanas.info/images/favicon/favicon-196x196.png",
     "slug": "animate-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "97.42%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "96.96%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 134,
     "timeDay": 190,
@@ -176,7 +176,7 @@
     "timeMonth": 190,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2025-08-26": 38
+      "2025-08-26": 45
     }
   },
   {
@@ -184,19 +184,19 @@
     "url": "https://snake.atanas.info",
     "icon": "https://snake.atanas.info/assets/favicon-196x196.png",
     "slug": "material-snake",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "97.47%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "97.04%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
-    "time": 252,
+    "time": 253,
     "timeDay": 207,
     "timeWeek": 207,
     "timeMonth": 207,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2025-08-26": 36
+      "2025-08-26": 42
     }
   },
   {
@@ -204,11 +204,11 @@
     "url": "https://tetris.atanas.info",
     "icon": "https://tetris.atanas.info/assets/favicon-196x196.png",
     "slug": "material-tetris",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "97.52%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "97.11%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 291,
     "timeDay": 150,
@@ -216,7 +216,7 @@
     "timeMonth": 150,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2025-08-26": 36
+      "2025-08-26": 42
     }
   },
   {
@@ -224,19 +224,19 @@
     "url": "https://react-carousel.atanas.info",
     "icon": "https://atanas.info/images/favicon/favicon-196x196.png",
     "slug": "react-carousel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "97.58%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "97.19%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 198,
+    "time": 199,
     "timeDay": 215,
     "timeWeek": 215,
     "timeMonth": 215,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2025-08-26": 35
+      "2025-08-26": 41
     }
   },
   {
@@ -244,19 +244,19 @@
     "url": "https://react-round-carousel.atanas.info",
     "icon": "https://atanas.info/images/favicon/favicon-196x196.png",
     "slug": "react-round-carousel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "97.63%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "97.27%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 171,
+    "time": 170,
     "timeDay": 202,
     "timeWeek": 202,
     "timeMonth": 202,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2025-08-26": 34
+      "2025-08-26": 39
     }
   },
   {
@@ -264,11 +264,11 @@
     "url": "https://sod.bg",
     "icon": "https://sod.bg/favicon-32x32.png",
     "slug": "sod-64",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "97.67%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "97.34%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 129,
     "timeDay": 186,
@@ -276,7 +276,7 @@
     "timeMonth": 186,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2025-08-26": 34
+      "2025-08-26": 39
     }
   },
   {
@@ -284,19 +284,19 @@
     "url": "https://social-header.atanas.info",
     "icon": "https://raw.githubusercontent.com/scriptex/social-header/master/src/favicon.svg",
     "slug": "social-header",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "97.73%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "97.42%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 612,
+    "time": 593,
     "timeDay": 140,
     "timeWeek": 140,
     "timeMonth": 140,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2025-08-26": 32
+      "2025-08-26": 36
     }
   },
   {
@@ -304,19 +304,19 @@
     "url": "https://kinetik.atanas.info",
     "icon": "https://kinetik.atanas.info/favicon/favicon.ico",
     "slug": "kinetik",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "97.78%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "100.00%",
     "time": 151,
     "timeDay": 146,
     "timeWeek": 146,
     "timeMonth": 146,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2025-08-26": 32
+      "2025-08-26": 26
     }
   },
   {
@@ -324,19 +324,19 @@
     "url": "https://react-svg-donuts.atanas.info",
     "icon": "https://atanas.info/images/favicon/favicon-196x196.png",
     "slug": "react-svg-donuts",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "97.83%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "100.00%",
     "time": 189,
     "timeDay": 187,
     "timeWeek": 187,
     "timeMonth": 187,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2025-08-26": 32
+      "2025-08-26": 26
     }
   },
   {
@@ -344,19 +344,19 @@
     "url": "https://calendar-widget.atanas.info",
     "icon": "https://atanas.info/images/favicon/favicon-196x196.png",
     "slug": "calendar-widget",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "97.88%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "100.00%",
     "time": 200,
     "timeDay": 186,
     "timeWeek": 186,
     "timeMonth": 186,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2025-08-26": 30
+      "2025-08-26": 24
     }
   },
   {
@@ -364,19 +364,19 @@
     "url": "https://react-accordion-ts.atanas.info",
     "icon": "https://atanas.info/images/favicon/favicon-196x196.png",
     "slug": "react-accordion-ts",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "97.93%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "100.00%",
     "time": 238,
     "timeDay": 179,
     "timeWeek": 179,
     "timeMonth": 179,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2025-08-26": 30
+      "2025-08-26": 24
     }
   },
   {
@@ -384,19 +384,19 @@
     "url": "https://2048.atanas.info",
     "icon": "https://2048.atanas.info/favicons/favicon.ico",
     "slug": "2048",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "97.98%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "100.00%",
     "time": 163,
     "timeDay": 166,
     "timeWeek": 166,
     "timeMonth": 166,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2025-08-26": 30
+      "2025-08-26": 23
     }
   },
   {
@@ -404,19 +404,19 @@
     "url": "https://gitlab-calendar.atanas.info",
     "icon": "https://atanas.info/images/favicon/favicon-196x196.png",
     "slug": "gitlab-calendar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.03%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "100.00%",
     "time": 305,
     "timeDay": 258,
     "timeWeek": 258,
     "timeMonth": 258,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2025-08-26": 28
+      "2025-08-26": 22
     }
   },
   {
@@ -424,19 +424,19 @@
     "url": "https://dator.atanas.info",
     "icon": "https://atanas.info/images/favicon/favicon-196x196.png",
     "slug": "dator",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.08%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "100.00%",
     "time": 220,
     "timeDay": 177,
     "timeWeek": 177,
     "timeMonth": 177,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2025-08-26": 28
+      "2025-08-26": 22
     }
   },
   {
@@ -444,19 +444,19 @@
     "url": "https://socials.atanas.info",
     "icon": "https://atanas.info/images/favicon/favicon-196x196.png",
     "slug": "socials",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.13%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "100.00%",
     "time": 229,
     "timeDay": 185,
     "timeWeek": 185,
     "timeMonth": 185,
     "timeYear": 185,
     "dailyMinutesDown": {
-      "2025-08-26": 27
+      "2025-08-26": 21
     }
   },
   {
@@ -482,11 +482,11 @@
     "url": "https://no-html.atanas.info",
     "icon": "https://atanas.info/images/favicon/favicon-196x196.png",
     "slug": "no-html",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.18%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 172,
     "timeDay": 163,
@@ -494,7 +494,7 @@
     "timeMonth": 163,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2025-08-26": 26
+      "2025-08-26": 20
     }
   },
   {
@@ -502,11 +502,11 @@
     "url": "https://intro-scroll.atanas.info",
     "icon": "https://atanas.info/images/favicon/favicon-196x196.png",
     "slug": "intro-scroll",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.23%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 236,
     "timeDay": 128,
@@ -514,7 +514,7 @@
     "timeMonth": 128,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2025-08-26": 26
+      "2025-08-26": 20
     }
   }
 ]
