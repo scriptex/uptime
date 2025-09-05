@@ -127,9 +127,9 @@
     "slug": "github-insights",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 178,
     "timeDay": 189,
@@ -137,7 +137,6 @@
     "timeMonth": 201,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2025-09-04": 13,
       "2025-08-31": 19,
       "2025-08-27": 18,
       "2025-08-26": 26
@@ -150,9 +149,9 @@
     "slug": "url-shortener",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 166,
     "timeDay": 154,
@@ -160,7 +159,6 @@
     "timeMonth": 217,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2025-09-04": 12,
       "2025-08-31": 19,
       "2025-08-27": 17,
       "2025-08-26": 25
@@ -173,9 +171,9 @@
     "slug": "type-script-helpers",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 148,
     "timeDay": 250,
@@ -183,7 +181,6 @@
     "timeMonth": 189,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2025-09-04": 12,
       "2025-08-31": 18,
       "2025-08-27": 17,
       "2025-08-26": 25
@@ -196,9 +193,9 @@
     "slug": "animate-me",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 150,
     "timeDay": 173,
@@ -206,7 +203,6 @@
     "timeMonth": 188,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2025-09-04": 11,
       "2025-08-31": 18,
       "2025-08-27": 17,
       "2025-08-26": 25
@@ -219,9 +215,9 @@
     "slug": "material-snake",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 253,
     "timeDay": 207,
@@ -229,7 +225,6 @@
     "timeMonth": 203,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2025-09-04": 11,
       "2025-08-31": 18,
       "2025-08-27": 16,
       "2025-08-26": 24
@@ -242,9 +237,9 @@
     "slug": "material-tetris",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 308,
     "timeDay": 322,
@@ -252,7 +247,6 @@
     "timeMonth": 179,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2025-09-04": 11,
       "2025-08-31": 17,
       "2025-08-27": 16,
       "2025-08-26": 24
@@ -265,9 +259,9 @@
     "slug": "react-carousel",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 194,
     "timeDay": 67,
@@ -275,7 +269,6 @@
     "timeMonth": 185,
     "timeYear": 185,
     "dailyMinutesDown": {
-      "2025-09-04": 10,
       "2025-08-31": 17,
       "2025-08-27": 15,
       "2025-08-26": 24
@@ -288,9 +281,9 @@
     "slug": "react-round-carousel",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 170,
     "timeDay": 132,
@@ -298,7 +291,6 @@
     "timeMonth": 147,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2025-09-04": 10,
       "2025-08-31": 17,
       "2025-08-27": 15,
       "2025-08-26": 23
@@ -311,9 +303,9 @@
     "slug": "sod-64",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 152,
     "timeDay": 106,
@@ -321,7 +313,6 @@
     "timeMonth": 184,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2025-09-04": 10,
       "2025-08-31": 16,
       "2025-08-26": 23
     }
@@ -333,9 +324,9 @@
     "slug": "social-header",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 211,
     "timeDay": 190,
@@ -343,7 +334,6 @@
     "timeMonth": 175,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2025-09-04": 9,
       "2025-08-31": 16,
       "2025-08-26": 22
     }
@@ -515,18 +505,20 @@
     "url": "https://scriptex.js.org",
     "icon": "https://atanas.info/images/favicon/favicon-196x196.png",
     "slug": "scriptex-github-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 252,
-    "timeDay": 250,
-    "timeWeek": 278,
-    "timeMonth": 250,
-    "timeYear": 250,
-    "dailyMinutesDown": {}
+    "time": 245,
+    "timeDay": 192,
+    "timeWeek": 260,
+    "timeMonth": 243,
+    "timeYear": 243,
+    "dailyMinutesDown": {
+      "2025-09-05": 1
+    }
   },
   {
     "name": "No HTML",
