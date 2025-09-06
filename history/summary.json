@@ -500,19 +500,19 @@
     "url": "https://scriptex.js.org",
     "icon": "https://atanas.info/images/favicon/favicon-196x196.png",
     "slug": "scriptex-github-io",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 172,
-    "timeWeek": 204,
-    "timeMonth": 218,
-    "timeYear": 218,
+    "time": 224,
+    "timeDay": 215,
+    "timeWeek": 211,
+    "timeMonth": 221,
+    "timeYear": 221,
     "dailyMinutesDown": {
-      "2025-09-06": 1
+      "2025-09-06": 7
     }
   },
   {
