@@ -13,7 +13,7 @@
     "time": 284,
     "timeDay": 434,
     "timeWeek": 310,
-    "timeMonth": 304,
+    "timeMonth": 302,
     "timeYear": 310,
     "dailyMinutesDown": {
       "2025-09-01": 31,
@@ -37,7 +37,7 @@
     "time": 277,
     "timeDay": 281,
     "timeWeek": 259,
-    "timeMonth": 237,
+    "timeMonth": 236,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2025-09-01": 15,
@@ -85,7 +85,7 @@
     "time": 272,
     "timeDay": 330,
     "timeWeek": 250,
-    "timeMonth": 244,
+    "timeMonth": 245,
     "timeYear": 271,
     "dailyMinutesDown": {
       "2025-08-31": 20,
@@ -107,7 +107,7 @@
     "time": 220,
     "timeDay": 127,
     "timeWeek": 193,
-    "timeMonth": 246,
+    "timeMonth": 244,
     "timeYear": 244,
     "dailyMinutesDown": {
       "2025-08-31": 20,
@@ -129,7 +129,7 @@
     "time": 224,
     "timeDay": 406,
     "timeWeek": 242,
-    "timeMonth": 290,
+    "timeMonth": 289,
     "timeYear": 264,
     "dailyMinutesDown": {
       "2025-08-31": 19,
@@ -151,7 +151,7 @@
     "time": 177,
     "timeDay": 471,
     "timeWeek": 257,
-    "timeMonth": 210,
+    "timeMonth": 211,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2025-08-31": 19,
@@ -173,7 +173,7 @@
     "time": 157,
     "timeDay": 363,
     "timeWeek": 272,
-    "timeMonth": 198,
+    "timeMonth": 199,
     "timeYear": 194,
     "dailyMinutesDown": {
       "2025-08-31": 18,
@@ -195,7 +195,7 @@
     "time": 176,
     "timeDay": 340,
     "timeWeek": 760,
-    "timeMonth": 259,
+    "timeMonth": 262,
     "timeYear": 241,
     "dailyMinutesDown": {
       "2025-08-31": 18,
@@ -217,7 +217,7 @@
     "time": 233,
     "timeDay": 396,
     "timeWeek": 151,
-    "timeMonth": 198,
+    "timeMonth": 197,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2025-08-31": 18,
@@ -239,7 +239,7 @@
     "time": 244,
     "timeDay": 344,
     "timeWeek": 180,
-    "timeMonth": 164,
+    "timeMonth": 162,
     "timeYear": 172,
     "dailyMinutesDown": {
       "2025-08-31": 17,
@@ -261,7 +261,7 @@
     "time": 188,
     "timeDay": 264,
     "timeWeek": 108,
-    "timeMonth": 179,
+    "timeMonth": 175,
     "timeYear": 182,
     "dailyMinutesDown": {
       "2025-08-31": 17,
@@ -305,7 +305,7 @@
     "time": 169,
     "timeDay": 327,
     "timeWeek": 240,
-    "timeMonth": 235,
+    "timeMonth": 237,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2025-08-31": 16,
@@ -326,7 +326,7 @@
     "time": 454,
     "timeDay": 190,
     "timeWeek": 167,
-    "timeMonth": 182,
+    "timeMonth": 179,
     "timeYear": 174,
     "dailyMinutesDown": {
       "2025-08-31": 16,
@@ -347,7 +347,7 @@
     "time": 153,
     "timeDay": 115,
     "timeWeek": 96,
-    "timeMonth": 160,
+    "timeMonth": 161,
     "timeYear": 153,
     "dailyMinutesDown": {
       "2025-08-31": 16,
@@ -368,7 +368,7 @@
     "time": 148,
     "timeDay": 192,
     "timeWeek": 141,
-    "timeMonth": 134,
+    "timeMonth": 131,
     "timeYear": 146,
     "dailyMinutesDown": {
       "2025-08-31": 15,
@@ -429,7 +429,7 @@
     "time": 141,
     "timeDay": 191,
     "timeWeek": 181,
-    "timeMonth": 137,
+    "timeMonth": 134,
     "timeYear": 141,
     "dailyMinutesDown": {
       "2025-08-26": 21
@@ -449,7 +449,7 @@
     "time": 174,
     "timeDay": 111,
     "timeWeek": 172,
-    "timeMonth": 154,
+    "timeMonth": 151,
     "timeYear": 165,
     "dailyMinutesDown": {
       "2025-08-26": 20
@@ -489,7 +489,7 @@
     "time": 159,
     "timeDay": 234,
     "timeWeek": 166,
-    "timeMonth": 140,
+    "timeMonth": 137,
     "timeYear": 151,
     "dailyMinutesDown": {
       "2025-08-26": 20
@@ -500,19 +500,19 @@
     "url": "https://scriptex.js.org",
     "icon": "https://atanas.info/images/favicon/favicon-196x196.png",
     "slug": "scriptex-github-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.37%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.71%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.98%",
-    "time": 223,
-    "timeDay": 208,
-    "timeWeek": 199,
-    "timeMonth": 221,
+    "time": 222,
+    "timeDay": 185,
+    "timeWeek": 197,
+    "timeMonth": 220,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2025-09-30": 8,
+      "2025-09-30": 1,
       "2025-09-29": 16,
       "2025-09-28": 49,
       "2025-09-18": 16,
