@@ -357,9 +357,9 @@
     "slug": "kinetik",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 132,
     "timeDay": 149,
@@ -367,7 +367,6 @@
     "timeMonth": 99,
     "timeYear": 132,
     "dailyMinutesDown": {
-      "2025-12-06": 8,
       "2025-08-31": 16,
       "2025-08-26": 22
     }
@@ -379,9 +378,9 @@
     "slug": "react-svg-donuts",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 140,
     "timeDay": 133,
@@ -389,7 +388,6 @@
     "timeMonth": 144,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2025-12-06": 8,
       "2025-08-31": 15,
       "2025-08-26": 22
     }
@@ -401,17 +399,16 @@
     "slug": "calendar-widget",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 141,
     "timeDay": 125,
     "timeWeek": 123,
     "timeMonth": 121,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2025-12-06": 8,
       "2025-08-26": 21
     }
   },
@@ -422,9 +419,9 @@
     "slug": "react-accordion-ts",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 139,
     "timeDay": 89,
@@ -432,7 +429,6 @@
     "timeMonth": 130,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2025-12-06": 8,
       "2025-10-20": 28,
       "2025-08-26": 21
     }
@@ -444,17 +440,16 @@
     "slug": "2048",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 131,
     "timeDay": 153,
     "timeWeek": 119,
     "timeMonth": 122,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2025-12-06": 8,
       "2025-08-26": 21
     }
   },
@@ -465,17 +460,16 @@
     "slug": "gitlab-calendar",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 143,
     "timeDay": 147,
     "timeWeek": 120,
     "timeMonth": 106,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2025-12-06": 8,
       "2025-08-26": 20
     }
   },
@@ -486,17 +480,16 @@
     "slug": "dator",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 135,
     "timeDay": 169,
     "timeWeek": 149,
     "timeMonth": 112,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2025-12-06": 8,
       "2025-08-26": 20
     }
   },
@@ -507,9 +500,9 @@
     "slug": "socials",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 135,
     "timeDay": 101,
@@ -517,7 +510,6 @@
     "timeMonth": 96,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2025-12-06": 8,
       "2025-10-20": 28,
       "2025-08-26": 20
     }
@@ -574,17 +566,16 @@
     "slug": "no-html",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 107,
     "timeDay": 203,
     "timeWeek": 122,
     "timeMonth": 101,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2025-12-06": 8,
       "2025-08-26": 19
     }
   },
@@ -595,17 +586,16 @@
     "slug": "intro-scroll",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 129,
     "timeDay": 83,
     "timeWeek": 145,
     "timeMonth": 106,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2025-12-06": 8,
       "2025-08-26": 19
     }
   }
